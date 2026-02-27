@@ -138,9 +138,9 @@ logfix.init(api_key="lf_test", enabled=False)
 
 ## API Compatibility
 
-| SDK Version | LogFix Core API |
-|---|---|
-| 1.x | v1 |
+| SDK Version | LogFix Core API | Server API |
+|---|---|---|
+| 1.x | v1 | v1.3 |
 
 ---
 
